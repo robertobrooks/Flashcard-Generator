@@ -1,7 +1,6 @@
 {
   "name": "Flashcard-Generator",
   "version": "1.0.0",
-  "description": "",
   "main": "BasicCard.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -19,5 +18,7 @@
   "homepage": "https://github.com/robertobrooks/Flashcard-Generator#readme",
   "dependencies": {
     "inquirer": "^3.2.1"
-  }
+  },
+  "devDependencies": {},
+  "description": ""
 }
